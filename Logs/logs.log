@@ -1,0 +1,4 @@
+2022-09-17 21:21:37.332 [main] INFO  base.TestBase - Driver successfully initialized
+2022-09-17 21:21:39.992 [main] INFO  base.TestBase - NavigateToJuiceSite(): Successfully navigated to https://juice-shop.herokuapp.com
+2022-09-17 21:21:40.764 [main] INFO  base.TestBase - Login(): Successfully logged in for superjuiceuser2@gmail.com
+2022-09-17 21:21:40.805 [main] INFO  base.TestBase - Selection of products - Start 
